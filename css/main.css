@@ -11,6 +11,8 @@ h1, h2 {
 
 .measure {
   display: flex; }
+  .measure:nth-child(2n) {
+    background-color: whitesmoke; }
 
 i, b {
   display: flex;
