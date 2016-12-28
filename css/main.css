@@ -20,7 +20,7 @@ i, b {
   padding: 0 2px 0 2px; }
   i.phrase, b.phrase {
     border-left: 1px black solid;
-    width: 7rem; }
+    width: 9rem; }
     i.phrase.pickup, b.phrase.pickup {
       justify-content: space-between; }
       i.phrase.pickup i:last-child, i.phrase.pickup b:last-child, b.phrase.pickup i:last-child, b.phrase.pickup b:last-child {
