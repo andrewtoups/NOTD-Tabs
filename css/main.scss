@@ -22,10 +22,11 @@ h1, h2 {
 i, b {
   display: flex;
   width: 2rem;
+  padding: 0 2px 0 2px;
 
   &.phrase {
     border-left: 1px black solid;
-    padding-left: 2px;
+    // padding-left: 2px;
     width: 7rem;
 
     &.pickup {
